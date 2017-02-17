@@ -1,7 +1,7 @@
 {
 	"name": "Open Link in Duplicate Tab",
 	"description": "Opens a link in a new tab with history from current tab",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"permissions": [
 		"contextMenus",
 		"tabs"
